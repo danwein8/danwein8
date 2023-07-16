@@ -12,8 +12,8 @@
 
 <p align="left">
 	<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danwein8&layout=compact&show_icons=true&theme=dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=danwein8&theme=dark&show_icons=ture" />
-	<img alt="profile summary" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danwein8&theme=solarized_dark" />
+  <!--<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=danwein8&theme=dark&show_icons=ture" /> UNDO WHEN STATS ARE BETTER-->
+	<img alt="profile summary" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danwein8&theme=2077" />
 </p>
 
 <p>Top Skills</p>
