@@ -22,7 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,mysql,mongodb,rust,dynamodb,azure,cloudflare,jenkins,redux,nextjs,r,flask,django,androidstudio,spring,maven,gradle,kotlin,idea,dart,flutter,scala,php,laravel,c,cs,bash,css,fastapi,firebase,git,github,githubactions,gitlab,html,bootstrap,dotnet,md,sass,babel,coffeescript,redux,codepen,cmake,nextjs,netlify,express,jquery,electron,gulp,fastapi,graphql,redis,jenkins,jest,fediverse,openshift,md,sqlite,postgres,firebase,postman,powershell,raspberrypi,arduino,regex,selenium,cassandra,ts,vercel,vim,vscode,vue,unity,unreal,ipfs,webpack,wasm,solidity,solidjs,webflow,pug,atom,ps,blender,autocad,matlab)](https://skillicons.dev)
 
-<img height="32" width="32" src=">
+<img height="32" width="32" src="aasets/scikitlearn.svg">
 
 <!--
 **danwein8/danwein8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
