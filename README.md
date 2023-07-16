@@ -16,12 +16,13 @@
 
 <p>Top Skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ansible,aws,gcp,docker,kubernetes,golang,react,js,threejs,nodejs,python,java,cpp,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,unity,linux,bash,gcp,java,cpp,cs)](https://skillicons.dev)
 
 <p>Other Skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,mysql,mongodb,rust,dynamodb,azure,cloudflare,jenkins,redux,nextjs,r,flask,django,androidstudio,spring,maven,gradle,kotlin,idea,dart,flutter,scala,php,laravel,c,cs,bash,css,fastapi,firebase,git,github,githubactions,gitlab,html,bootstrap,dotnet,md,sass,babel,coffeescript,redux,codepen,cmake,nextjs,netlify,express,jquery,electron,gulp,fastapi,graphql,redis,jenkins,jest,fediverse,openshift,md,sqlite,postgres,firebase,postman,powershell,raspberrypi,arduino,regex,selenium,cassandra,ts,vercel,vim,vscode,vue,unity,unreal,ipfs,webpack,tensorflow,wasm,solidity,solidjs,webflow,pug,atom,ps,blender,autocad,herokufigma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,mysql,mongodb,rust,dynamodb,azure,cloudflare,jenkins,redux,nextjs,r,flask,django,androidstudio,spring,maven,gradle,kotlin,idea,dart,flutter,scala,php,laravel,c,cs,bash,css,fastapi,firebase,git,github,githubactions,gitlab,html,bootstrap,dotnet,md,sass,babel,coffeescript,redux,codepen,cmake,nextjs,netlify,express,jquery,electron,gulp,fastapi,graphql,redis,jenkins,jest,fediverse,openshift,md,sqlite,postgres,firebase,postman,powershell,raspberrypi,arduino,regex,selenium,cassandra,ts,vercel,vim,vscode,vue,unity,unreal,ipfs,webpack,wasm,solidity,solidjs,webflow,pug,atom,ps,blender,autocad,matlab)](https://skillicons.dev)
 
+<img height="32" width="32" src=">
 
 <!--
 **danwein8/danwein8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
