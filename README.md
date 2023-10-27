@@ -1,5 +1,10 @@
-# DanWeiner
-### A CS student with a passion for ML, deep learning, and data!
+<body>
+
+<div class="header">
+  <h1>DanWeiner</h1>
+  <p>A CS student with a passion for ML, deep learning, and data!</p>
+</div>
+
 
 <p align="left">
   <a href="https://github.com/danwein8">
@@ -64,3 +69,4 @@
 	<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+</body>
