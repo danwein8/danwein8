@@ -2,7 +2,7 @@
 
 <div class="header">
   <h1>DanWeiner</h1>
-  <p>A CS student with a passion for ML, deep learning, and data!</p>
+  <p>https://danwein8.github.io</p>
 </div>
 
 
